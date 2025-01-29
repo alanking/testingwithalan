@@ -2,4 +2,5 @@ digraph G {
   "Welcome" -> "To"
   "To" -> "Web"
   "To" -> "GraphViz!"
+  "Hello" -> "World"
 }
